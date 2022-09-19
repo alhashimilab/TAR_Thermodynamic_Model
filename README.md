@@ -3,6 +3,7 @@
 Ensembles, Scripts and 3DNA-DSSR Data to generate figures and analysis used in the manuscript
 
 RNA conformational propensities determine cellular activity
+
 Megan L Kelly1, Rohit Roy2, Ainan Geng1, Laura R Ganser3, Akanksha Manghrani1, Bryan R. Cullen4, Ursula Schulze-Gahmen5, Daniel Herschlag6 and Hashim M. Al-Hashimi1*
 
 1 Department of Biochemistry, Duke University School of Medicine, Durham, NC 27710, USA
